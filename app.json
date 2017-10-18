@@ -1,4 +1,5 @@
 {
-Name:tckem;
-website:www.github.com/gamerstt/tckem;
+  "name": "tckem",
+  "description": "starting web",
+  "repository": "https://github.com/gamerstt/tckem",
 }
